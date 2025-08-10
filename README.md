@@ -11,20 +11,18 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Railway Navigation**  
-- 👨‍💻 All my projects are available at [**My GitHub**](https://github.com/AarushArora21)  
-- 📫 Reach me at **aruyuti0@gmail.com**  
-
----
-
-## 🎮 Fun Pac-Man Animation
-> Watch Pac-Man eat my contributions 🍒  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarushArora21/AarushArora21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarushArora21/AarushArora21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AarushArora21/AarushArora21/output/pacman-contribution-graph.svg">
-</picture>
-
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on **Railway Navigation**  
+      <br>👨‍💻 All my projects are available at [**My GitHub**](https://github.com/AarushArora21)  
+      <br>📫 Reach me at **aruyuti0@gmail.com**
+    </td>
+    <td>
+      <img height="150" width="300" src="https://i.pinimg.com/originals/84/92/5f/84925f2c2d31af1d08c6ab69afdde1b5.gif" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 GitHub Trophies
@@ -81,7 +79,4 @@
 
 ---
 
-## 🎯 Bonus: Anime Vibes
-<p align="center">
-  <img src="https://media.tenor.com/0glt7z9H4XQAAAAd/itadori-yuji.gif" width="300" />
-</p>
+
